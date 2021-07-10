@@ -1,0 +1,26 @@
+.header-nav {
+    flex-direction: column;
+    align-items: center;
+}
+
+.header-nav a {
+    margin: 1.3rem 0;
+}
+
+.sobre-mi {
+    height: 66rem;
+}
+
+.clientes-logos {
+    width: 31rem;
+}
+
+.testimoniales {
+    margin-top: 10rem;
+}
+
+.clientes-title h2 {
+    width: 30rem;
+    left: 12px;
+    font-size: 2.2rem;
+}

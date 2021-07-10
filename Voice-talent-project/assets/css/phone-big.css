@@ -1,0 +1,66 @@
+.header-nav-content {
+    flex-direction: column;
+}
+
+.header-nav {
+    margin-top: 3rem;
+}
+
+.hero {
+    height: 45rem;
+}
+
+.hero-content {
+    height: 45rem;
+}
+
+h1 {
+    margin: 2rem;
+}
+
+.hero-content p {
+    margin: 1.5rem 2rem;
+}
+
+.sobre-mi {
+    grid-template-columns: repeat(1,1fr);
+    height: 65rem;
+}
+
+.sobre-mi-text h2 {
+    margin: 0;
+}
+
+.muestras {
+    height: 51rem;
+}
+
+.muestras-title h2 {
+    left: 6px;
+    right: 6px;
+    top: -34px;
+}
+
+.muestra-audio {
+    margin-top: 3rem;
+}
+
+.clientes-title h2 {
+    left: 6px;
+    width: 33rem;
+}
+
+.clientes-logos {
+    width: 35rem;
+    height: 44rem;
+    margin-bottom: 0;
+    overflow-y: auto;
+}
+
+.testimonios-title h2 {
+    top: 506px;
+}
+
+.testimoniales-cards {
+    display: grid;
+}

@@ -1,0 +1,37 @@
+.muestras {
+    height: 45rem;
+}
+
+.testimoniales {
+    height: 100rem;
+}
+
+.testimonios-title h2 {
+    top: 525px;
+}
+
+.testimoniales-contenido {
+    grid-template-columns: repeat(1,1fr);
+    gap: 1rem;
+}
+
+.clientes-logos {
+    width: 60rem;
+}
+
+.testimoniales-card {
+    gap: 2rem;
+}
+
+.testimoniales-card-content {
+    margin-top: 2rem;
+}
+
+.clientes-img-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.contacto {
+    height: 55rem;
+}

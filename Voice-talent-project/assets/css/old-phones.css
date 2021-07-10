@@ -1,0 +1,25 @@
+.hero-content {
+    height: 50rem;
+}
+
+.hero {
+    height: 50rem;
+}
+
+.sobre-mi {
+    height: 68rem;
+}
+
+.clientes-logos {
+    width: 26rem;
+}
+
+.clientes-img-container {
+    margin-bottom: 4.5rem;
+}    
+
+.clientes-title h2 {
+    width: 26rem;
+    left: 12px;
+    font-size: 1.8rem;
+}
